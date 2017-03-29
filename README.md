@@ -1,1 +1,1 @@
-# TripSnip_Final_Project
+# TripSnipFinalProject
